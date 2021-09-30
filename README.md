@@ -1,4 +1,5 @@
-#covid19-tracker/Dashboard
+
+## covid19-tracker/Dashboard
 
 Implemented Covid19-Dashboard using React. It fetch data from API by React hook( UseState)..
 
@@ -20,7 +21,7 @@ npm start
 ## Screenshots
 
 |
-<img src="https://ibb.co/yQjyT2G"width="450">
+<img src="https://i.ibb.co/fxwpRJB/Screenshot-1.png" width="450">
 |  
 
 
