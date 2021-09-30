@@ -21,7 +21,7 @@ npm start
 ## Screenshots
 
 |
-<img src="https://i.ibb.co/fxwpRJB/Screenshot-1.png" width="450">
+<img src="https://i.ibb.co/sshNnH8/Screenshot-2.png" width="450">
 |  
 
 
